@@ -1,0 +1,3 @@
+rootProject.name='StickerLib'
+include ':app'
+include ':sticker'
